@@ -105,3 +105,6 @@ venv.bak/
  
 #Auth secrets
 Meza*.json
+
+#vim swap
+*.swp
