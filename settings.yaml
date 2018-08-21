@@ -1,0 +1,5 @@
+client_config_backend: service
+service_config:
+        client_service_email: a
+        client_user_email: hector@lecuanda.com
+        client
